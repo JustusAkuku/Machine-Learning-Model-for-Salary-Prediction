@@ -1,6 +1,6 @@
 # Linear Regression Model for Salary Prediction
 
-For this project, I downloaded the Salary Dataset and used it to build a machine learning model that makes employees' salary prediction.
+For this project, I downloaded the 'salary_dataset' and used it to build a machine learning model that makes employees' salary prediction.
 
 # Tasks
 - Data Cleaning
