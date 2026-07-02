@@ -1,4 +1,4 @@
-# Machine learning Model for Salary Prediction
+# Linear Regression Model for Salary Prediction
 
 For this project, I downloaded the Salary Dataset and used it to build a machine learning model that makes employees' salary prediction.
 
@@ -18,4 +18,6 @@ For this project, I downloaded the Salary Dataset and used it to build a machine
 
 
 ## How to run
-https://colab.research.google.com/github/justusakuku/Machine-Learning-Model-for-Salary-Prediction/blob/main/salary-Prediction.ipynb?raw=1
+1. Download 'AI_ML_Salary_Prediction.ipynb' from this repo
+2. Go to https://colab.research.google.com > File > Upload notebook
+3. Runtime > Run all
