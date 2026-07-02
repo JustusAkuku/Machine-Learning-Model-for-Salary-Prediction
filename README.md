@@ -18,4 +18,4 @@ For this project, I downloaded the Salary Dataset and used it to build a machine
 
 
 ## How to run
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justusakuku/Machine-Learning-Model-for-Salary-Prediction/blob/main/salary-Prediction.ipynb)
+https://colab.research.google.com/github/justusakuku/Machine-Learning-Model-for-Salary-Prediction/blob/main/salary-Prediction.ipynb?raw=1
