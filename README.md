@@ -7,6 +7,8 @@ For this project, I downloaded the Salary Dataset and used it to build a machine
 - Exploratory Data Analysis
 - Encoding Categorical variables( Department & EducationLevel)
 - Feature Engineering
+- Comparison between the predicted and actual Salaries.
+- Predicting salary for a new employee
 
 
   # Model Accuracy Score
