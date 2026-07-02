@@ -17,7 +17,7 @@ For this project, I downloaded the 'salary_dataset' and used it to build a machi
 - Model Accuracy: 87.53
 
 
-## How to run
+## How to run the Project 
 1. Download 'AI_ML_Salary_Prediction.ipynb' from this repo
 2. Go to https://colab.research.google.com > File > Upload notebook
 3. Runtime > Run all
