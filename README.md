@@ -30,35 +30,16 @@ Ultimately, this repository serves as both a learning resource and a practical t
 
 
 # How to Run
-# 1. Open the Repository  
-Go to: Machine-Learning-Model-for-Salary-Prediction
 
-# 2. Open the Notebook in Google Colab  
-Click this link: AI/ML_Salary_Prediction.ipynb
+Open the Repository  
+(Machine-Learning-Model-for-Salary-Prediction)
 
+Open the Notebook in Google Colab  
+(AI_ML_Salary_Prediction.ipynb)
 
 Run All Cells  
 In Colab, click Runtime → Run all.
 
-
-
-Open in Google Colab
-
-Upload the notebook AI_ML_Salary_Prediction.ipynb to Colab.
-
-Or open directly via the shared Colab link.
-
-# Run the Notebook
-
-Execute cells step by step.
-
-Train models and view results.
-
-# Interpret Results
-
-Compare model metrics.
-
-Use insights for salary prediction analysis.
 
 # Future Improvements
 Deep Learning Models: Add neural networks (e.g., TensorFlow/Keras) for more complex salary prediction.
