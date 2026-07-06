@@ -38,7 +38,6 @@ Run All Cells
 In Colab, click Runtime → Run all.
 
 ## DATASET
-# Dataset
 
 This project uses the dataset **salary_dataset.csv**, which is included in this repository.
 
