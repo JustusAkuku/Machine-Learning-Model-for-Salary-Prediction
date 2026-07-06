@@ -30,9 +30,14 @@ Ultimately, this repository serves as both a learning resource and a practical t
 
 
 # How to Run
-Clone the Repository
-git clone https://github.com/JustusAkuku/Machine-Learning-Model-for-Salary-Prediction.git
-cd Machine-Learning-Model-for-Salary-Prediction
+# 1. Open the Repository  
+Go to: Machine-Learning-Model-for-Salary-Prediction
+
+# 2. Open the Notebook in Google Colab  
+Click this link: AI/ML_Salary_Prediction.ipynb
+
+# 3. Run All Cells  
+In Colab, click Runtime → Run all.
 
 # Open in Google Colab
 
