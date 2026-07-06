@@ -30,13 +30,10 @@ Ultimately, this repository serves as both a learning resource and a practical t
 
 
 # How to Run
-Main notebook: https://github.com/JustusAkuku/Machine-Learning-Model-for-Salary-Prediction/blob/main/AI_ML_Salary_Prediction.ipynb
+[GitHub Repository](https://github.com/JustusAkuku/Machine-Learning-Model-for-Salary-Prediction)
 
-Open the Repository  
-[Machine-Learning-Model-for-Salary-Prediction]
+[Salary Prediction Notebook on Google Colab](https://colab.research.google.com/drive/1wxYUia2dvBpvoGPG_SPDo73BXsJtYwwO)
 
-Open the Notebook in Google Colab  
-[AI_ML_Salary_Prediction.ipynb]
 
 Run All Cells  
 In Colab, click Runtime → Run all.
