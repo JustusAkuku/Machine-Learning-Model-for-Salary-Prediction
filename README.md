@@ -32,10 +32,10 @@ Ultimately, this repository serves as both a learning resource and a practical t
 # How to Run
 
 Open the Repository  
-(Machine-Learning-Model-for-Salary-Prediction)
+[Machine-Learning-Model-for-Salary-Prediction]
 
 Open the Notebook in Google Colab  
-(AI_ML_Salary_Prediction.ipynb)
+[AI_ML_Salary_Prediction.ipynb]
 
 Run All Cells  
 In Colab, click Runtime → Run all.
