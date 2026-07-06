@@ -36,10 +36,13 @@ Go to: Machine-Learning-Model-for-Salary-Prediction
 # 2. Open the Notebook in Google Colab  
 Click this link: AI/ML_Salary_Prediction.ipynb
 
-# 3. Run All Cells  
+
+Run All Cells  
 In Colab, click Runtime → Run all.
 
-# Open in Google Colab
+
+
+Open in Google Colab
 
 Upload the notebook AI_ML_Salary_Prediction.ipynb to Colab.
 
