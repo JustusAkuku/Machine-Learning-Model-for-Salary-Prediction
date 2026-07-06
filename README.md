@@ -30,6 +30,7 @@ Ultimately, this repository serves as both a learning resource and a practical t
 
 
 # How to Run
+Main notebook: https://github.com/JustusAkuku/Machine-Learning-Model-for-Salary-Prediction/blob/main/AI_ML_Salary_Prediction.ipynb (github.com in Bing)
 
 Open the Repository  
 [Machine-Learning-Model-for-Salary-Prediction]
