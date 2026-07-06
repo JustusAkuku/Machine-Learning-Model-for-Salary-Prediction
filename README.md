@@ -30,7 +30,7 @@ Ultimately, this repository serves as both a learning resource and a practical t
 
 
 # How to Run
-Main notebook: https://github.com/JustusAkuku/Machine-Learning-Model-for-Salary-Prediction/blob/main/AI_ML_Salary_Prediction.ipynb (github.com in Bing)
+Main notebook: https://github.com/JustusAkuku/Machine-Learning-Model-for-Salary-Prediction/blob/main/AI_ML_Salary_Prediction.ipynb
 
 Open the Repository  
 [Machine-Learning-Model-for-Salary-Prediction]
@@ -45,10 +45,14 @@ In Colab, click Runtime → Run all.
 # Future Improvements
 Deep Learning Models: Add neural networks (e.g., TensorFlow/Keras) for more complex salary prediction.
 
+
 Deployment: Build a web app using Flask or Streamlit to make predictions accessible to users.
+
 
 API Integration: Expose the model via a REST API for integration with HR systems.
 
+
 Automated Data Updates: Connect to live job market datasets for real-time predictions.
+
 
 Visualization Dashboard: Add interactive charts and dashboards for salary trends.
