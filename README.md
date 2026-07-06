@@ -34,10 +34,16 @@ Ultimately, this repository serves as both a learning resource and a practical t
 
 [Salary Prediction Notebook on Google Colab](https://colab.research.google.com/drive/1wxYUia2dvBpvoGPG_SPDo73BXsJtYwwO)
 
-
 Run All Cells  
 In Colab, click Runtime → Run all.
 
+## DATASET
+# Dataset
+
+This project uses the dataset **salary_dataset.csv**, which is included in this repository.
+
+You can download it directly here:  
+[Download salary_dataset.csv](https://raw.githubusercontent.com/JustusAkuku/Machine-Learning-Model-for-Salary-Prediction/main/salary_dataset.csv)
 
 # Future Improvements
 Deep Learning Models: Add neural networks (e.g., TensorFlow/Keras) for more complex salary prediction.
