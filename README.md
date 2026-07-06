@@ -1,6 +1,6 @@
 
 # Project Overview
-The project demonstrates how to predict salaries based on features such as education, experience, and job role using machine learning techniques.
+The project demonstrates how to predict salaries based on features such as education, experience, Department/Role  and performance using machine learning techniques.
 
 # Key Sections
 Data Loading & Cleaning
