@@ -62,7 +62,7 @@ The project demonstrates how to predict salaries based on features such as educa
 - The model was evaluated using MAE, RMSE, and R²
 
 # Conclusion
-- The salary prediction model demonstrates robust explanatory power (R² ≈ 0.85), with average prediction errors around $4,800–$6,200. This means the model is reliable for broad salary estimation.
+- The salary prediction model demonstrates robust explanatory power (R² ≈ 0.87), with average prediction errors around $4,800–$6,200. This means the model is reliable for broad salary estimation.
 
 **Key takeaways**:
 
