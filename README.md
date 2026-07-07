@@ -25,37 +25,37 @@ The project demonstrates how to predict salaries based on features such as educa
 
 
  # 🔍 Exploratory Data Analysis (EDA)
-- Average salary across the dataset: ≈ $65,000
+- Average salary across the dataset: ≈ 167,500
 
 **Salary distribution**:
 
-- Bachelor’s degree: $55,000 – $70,000
+- Bachelor’s degree: 158,000 – 165,000
 
-- Master’s degree: $70,000 – $85,000
+- Master’s degree: 166,000 – 175,000
 
-- PhD: $90,000 – $110,000
+- PhD: 176,000 – 192,000
 
 **Experience impact**:
 
-0–5 years: ≈ $50,000
+0–5 years: ≈ 158,000
 
-6–10 years: ≈ $70,000
+6–10 years: ≈ 167,000
 
-11–20 years: ≈ $95,000
+11–20 years: ≈ 180,000
 
 ## 💡 Key Insights
-- Education adds ~ $15K–$20K per level (Bachelor → Master → PhD).
+- Education adds ~ 8,000-12,000 per level (Bachelor → Master → PhD).
 
-- Experience contributes ~ $2,500 per year up to ~15 years, then plateaus.
+- Experience contributes ~ 1,500-2,000 per year up to ~15 years, then plateaus.
   
 
 **Department/Role matters**:
 
-- Engineering/Tech roles average $85K+
+- Engineering/Tech roles average 175,000+
 
-- HR/Admin roles average $55K–$65K
+- HR/Admin roles average 158,000–165,000
 
-- Performance rating can swing salaries by 10–15
+- Performance rating can swing salaries by 10–15%
 
 # Model Building
 - 📈 Model Performance (Linear Regression)
@@ -66,11 +66,11 @@ The project demonstrates how to predict salaries based on features such as educa
 
 **Key takeaways**:
 
-- Education consistently drives salary upward, with each level adding $15K–$20K.
+- Education consistently drives salary upward, with each level adding 8,000–12,000.
 
-- Experience contributes about $2,500 per year until plateauing after ~15 years.
+- Experience contributes about 1,500-2,000 per year until plateauing after ~15 years.
 
-- Departmental differences are stark: Engineering averages $85K+, while HR/Admin clusters around $55K–$65K.
+- Departmental differences are stark: Engineering averages 175,000+, while HR/Admin clusters around 158,000–165,000.
 
 - Performance ratings can swing salaries by 10–15%, showing the importance of qualitative factors.
 
