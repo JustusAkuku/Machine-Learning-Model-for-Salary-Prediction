@@ -13,9 +13,9 @@ The project demonstrates how to predict salaries based on features such as educa
 
 # Model Building
 
-- Use the Linear Regression Algorithm for model training.
+- Used the Linear Regression Algorithm for model training.
 
-- Compare performance using metrics like MAE, RMSE, and R².
+- Compared performance using metrics like MAE, RMSE, and R².
 
 # Results & Insights
 
